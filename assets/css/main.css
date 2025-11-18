@@ -7,7 +7,7 @@
 
 :root {
   --background-color: #f5f1ef;
-  --default-color: #101111;
+  --default-color: #0c0c0c;
   --color-primary: #da261e;
   --color-primay-hover:#191c60;
   --color-white: #ffffff;
@@ -67,7 +67,7 @@ body{ font-family: var(--font-info); font-weight: 500;background: var(--backgrou
     height: 100%;
     top: 0;
     left: 0;
-    background-image: url(../images/loginbg.jpg);
+    background-image: url(../images/slide-2.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
